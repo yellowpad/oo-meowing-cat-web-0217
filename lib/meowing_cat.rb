@@ -9,6 +9,6 @@ end
 
 kitty = Cat.new
 
-kitty.name = "Jimbo"
+kitty.name = "Jimbo" 
 
 kitty.meow
