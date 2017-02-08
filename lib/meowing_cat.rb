@@ -9,5 +9,5 @@ attr_accessor :name
 end
 
 kitty = Cat.new
-kitty.name = "Naru"
+kitty.name = "Marcus"
 kitty.meow
